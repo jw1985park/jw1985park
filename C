@@ -55,3 +55,5 @@ SCROLLBACK, COPY, PASTE MODES
        this scrollback mode by hitting enter.  You can also easily copy and paste text from scrollback mode.  To do so, enter scrollback using  alt-pgup
        or  alt-pgdn,  press  the  spacebar  to start highlighting text, use up/down/left/right/pgup/pgdn to select the text, and press enter to copy the
        text.  You can then paste the text using alt-insert or ctrl-a-].
+       
+FIN
